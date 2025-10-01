@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "d70fde96-5c8c-4867-a67b-cad07e81ee06",
+      "a6e7ed32-903c-4f08-84f5-28cbabc25d06",
+      "698fbf70-1744-45f9-88fe-db0bd96fa255",
+      "b202009b-f02c-4c3a-b7e5-fcdef1f38e1a",
+      "29a9fb28-243f-4dfb-a5d6-5eaa7ea7564c",
+      "26e6ece3-6eba-4748-9abe-3277e44a8673",
+      "3568ff0f-9ce8-4722-a9d6-cfb42fa4c13d",
+      "7ee1797a-b983-415b-8efe-2a563cdc26c1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bbed2f60-ba80-4bc1-bd05-5e55f0452090",
+    "website": "703x-genetics"
+  },
+  "course_title": "7.03x Genetics",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "In this course, you will learn the principles of genetics with application to the study of biological function at the level of molecules, cells, and multicellular organisms, including humans. We will cover structure and function of genes, chromosomes, and genomes; biological variation resulting from recombination, mutation, and selection; population genetics; and the use of genetic methods to modify genes and genomes and analyze protein function, gene regulation, and inherited disease.\n\nThis course, based on the MIT course\u00a0*7.03 Genetics*\u00a0taken by enrolled MIT students, was organized as a three-part series offered through the\u00a0MITx\u00a0program by\u00a0[MIT\u2019s Department of Biology](https://biology.mit.edu/). It is\u00a0[self-paced and free](https://web.mit.edu/mitxbio/courses.html)\u00a0as long as you enroll in the Audit Track option, which you can select after creating a free account on\u00a0MITx Online.",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.7-006",
+  "course_image_thumbnail": {
+    "content": "6e4cd591-c5f7-4fac-bd79-2fb05c9171ae",
+    "website": "703x-genetics"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "07d2b2d8-37c7-4fa0-84b7-15b5abc6c237",
+  "site_short_id": "RES.7-006-spring-2023",
+  "site_url_path": "courses/res-7-006-7-03x-genetics"
+}
